@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+  <question minutes="1" points="7">
+    <text>Сколько сердцец у осьминога?</text>
+    <variants>
+      <variant>1</variant>
+      <variant>6</variant>
+      <variant right="true">3</variant>
+      <variant>2</variant>
+    </variants>
+  </question>
+  <question minutes="2" points="6">
+    <text>В каком году Гагарин полетел в космос?</text>
+    <variants>
+      <variant>1962</variant>
+      <variant>1973</variant>
+      <variant right="true">1961</variant>
+      <variant>1959</variant>
+    </variants>
+  </question>
+  <question minutes="0.5" points="2">
+    <text>Сколько кругов ада по Данте?</text>
+    <variants>
+      <variant>1</variant>
+      <variant>6</variant>
+      <variant right="true">9</variant>
+      <variant>2</variant>
+    </variants>
+  </question>
+  <question minutes="1.5" points="3">
+    <text>Сколько байт в килобайте?</text>
+    <variants>
+      <variant>2048</variant>
+      <variant>1000</variant>
+      <variant right="true">1024</variant>
+      <variant>512</variant>
+    </variants>
+  </question>
+  <question minutes="2" points="6">
+    <text>Сколько глаз у обыкновенной мухи?</text>
+    <variants>
+      <variant>2</variant>
+      <variant>4</variant>
+      <variant right="true">5</variant>
+      <variant>1</variant>
+    </variants>
+  </question>
+  <question minutes="3" points="5">
+    <text>Сколько ног у улитки?</text>
+    <variants>
+      <variant>2</variant>
+      <variant>5</variant>
+      <variant right="true">1</variant>
+      <variant>4</variant>
+    </variants>
+  </question>
+</questions>
